@@ -8,4 +8,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 
 * [The power of introspection](https://web.archive.org/web/20180901124519/http://www.diveintopython.net/power_of_introspection/index.html)
 
-* [Detect eyes nose lips nose and jaws using OpenCV](https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/)
+* [Detect eyes, nose, lips, nose and jaws using OpenCV](https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/)
