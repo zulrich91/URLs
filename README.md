@@ -11,3 +11,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Face_recognition github](https://github.com/ageitgey/face_recognition)
 * [Opencv](https://github.com/opencv/opencv)
 * [OpenFace](https://github.com/cmusatyalab/openface)
+* [Opencv_contrib-haarcascades](https://github.com/opencv/opencv_contrib/tree/master/modules/face/data/cascades)
