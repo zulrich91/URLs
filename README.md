@@ -12,3 +12,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Opencv](https://github.com/opencv/opencv)
 * [OpenFace](https://github.com/cmusatyalab/openface)
 * [Opencv_contrib-haarcascades](https://github.com/opencv/opencv_contrib/tree/master/modules/face/data/cascades)
+* [conda-environments-not-showing-up-in-jupyter-notebook](https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook)
