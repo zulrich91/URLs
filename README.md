@@ -13,3 +13,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [OpenFace](https://github.com/cmusatyalab/openface)
 * [Opencv_contrib-haarcascades](https://github.com/opencv/opencv_contrib/tree/master/modules/face/data/cascades)
 * [conda-environments-not-showing-up-in-jupyter-notebook](https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook)
+* [Install dlib on ubuntu](https://www.learnopencv.com/install-dlib-on-ubuntu/)
