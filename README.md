@@ -19,3 +19,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Flip image opencv](https://scottontechnology.com/flip-image-opencv-python/)
 * [Detect ear opencv](https://learning.oreilly.com/library/view/opencv-3x-with/9781788396905/0b9542eb-7966-415f-9361-ade2755717d7.xhtml)
 * [Set up and deploy an R Shiny application](https://docs.rstudio.com/shinyapps.io/getting-started.html)
+* [Install tensorflow 1.13 on ubuntu-18.04](https://medium.com/@Oysiyl/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070)
