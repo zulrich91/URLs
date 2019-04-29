@@ -21,3 +21,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Set up and deploy an R Shiny application](https://docs.rstudio.com/shinyapps.io/getting-started.html)
 * [Install tensorflow 1.13 on ubuntu-18.04](https://medium.com/@Oysiyl/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070)
 * [Dlib trained models](https://github.com/davisking/dlib-models)
+* [Shiny Application](https://ulrich-tchuenkam.shinyapps.io/school_assignment/)
