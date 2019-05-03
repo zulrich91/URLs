@@ -23,3 +23,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Dlib trained models](https://github.com/davisking/dlib-models)
 * [Shiny Application](https://ulrich-tchuenkam.shinyapps.io/school_assignment/)
 * [Labeled Face Parts in the wild dataset](https://ibug.doc.ic.ac.uk/download/annotations/lfpw.zip/)
+* [Remove kernel on jupyter notebook](https://stackoverflow.com/questions/42635310/remove-kernel-on-jupyter-notebook)
