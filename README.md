@@ -24,5 +24,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Shiny Application](https://ulrich-tchuenkam.shinyapps.io/school_assignment/)
 * [Labeled Face Parts in the wild dataset](https://ibug.doc.ic.ac.uk/download/annotations/lfpw.zip/)
 * [Remove kernel on jupyter notebook](https://stackoverflow.com/questions/42635310/remove-kernel-on-jupyter-notebook)
-* [Proxy files for Ubuntu]()
-https://stackoverflow.com/questions/32791215/pac-files-for-ubuntu-command-line
+* [Proxy files for Ubuntu](https://stackoverflow.com/questions/32791215/pac-files-for-ubuntu-command-line)
