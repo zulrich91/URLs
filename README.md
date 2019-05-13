@@ -27,3 +27,5 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Proxy files for Ubuntu](https://stackoverflow.com/questions/32791215/pac-files-for-ubuntu-command-line)
 * [Encyclopedia of Biometrics](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-73003-5_186#toc)
 * [Menpo Notebooks](https://nbviewer.jupyter.org/github/menpo/menpo-notebooks/blob/master/menpo/Transforms/Piecewise_Affine.ipynb)
+* [Pytorch deep learning Face frontalisation](https://github.com/scaleway/frontalization)
+* [Nvidia Data Loading Library-DALI](https://github.com/NVIDIA/DALI)
