@@ -29,3 +29,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Menpo Notebooks](https://nbviewer.jupyter.org/github/menpo/menpo-notebooks/blob/master/menpo/Transforms/Piecewise_Affine.ipynb)
 * [Pytorch deep learning Face frontalisation](https://github.com/scaleway/frontalization)
 * [Nvidia Data Loading Library-DALI](https://github.com/NVIDIA/DALI)
+* [International Journal of Advanced Research in Computer Science and Software Engineering](http://www.ijarcsse.com/index.php/ijarcsse)
