@@ -30,3 +30,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Pytorch deep learning Face frontalisation](https://github.com/scaleway/frontalization)
 * [Nvidia Data Loading Library-DALI](https://github.com/NVIDIA/DALI)
 * [International Journal of Advanced Research in Computer Science and Software Engineering](http://www.ijarcsse.com/index.php/ijarcsse)
+* [Research gate](https://www.researchgate.net/publication/261760043_A_comparative_study_of_face_landmarking_techniques#pf19)
