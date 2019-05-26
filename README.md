@@ -34,3 +34,6 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Science Direct](https://www.sciencedirect.com/science/article/pii/S1748681513002088)
 * [Pubmed/MEDLINE Database](https://www.ncbi.nlm.nih.gov/pubmed)
 * [Cochrane Database](https://www.cochranelibrary.com/)
+* [Design for color blind 1](http://colorbrewer2.org/#type=diverging&scheme=Spectral&n=4)
+* [Design for color blind 2](https://blog.datawrapper.de/colorguide/)
+* [Design for color blind 3](https://projects.susielu.com/viz-palette)
