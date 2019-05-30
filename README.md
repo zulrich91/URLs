@@ -39,3 +39,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Design for color blind 3](https://projects.susielu.com/viz-palette)
 * [Color Palette generator 1](https://www.canva.com/colors/color-palette-generator/)
 * [Color Palette generator 2](https://coolors.co/)
+* [PCA on faces](https://github.com/lsirse?tab=repositories)
