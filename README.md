@@ -40,3 +40,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Color Palette generator 1](https://www.canva.com/colors/color-palette-generator/)
 * [Color Palette generator 2](https://coolors.co/)
 * [PCA on faces](https://github.com/lsirse?tab=repositories)
+* [Three ways to annotate your graph](https://medium.com/@urban_institute/three-ways-to-annotate-your-graphs-d140e04e48ec)
