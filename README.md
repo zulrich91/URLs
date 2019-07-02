@@ -43,3 +43,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Three ways to annotate your graph](https://medium.com/@urban_institute/three-ways-to-annotate-your-graphs-d140e04e48ec)
 * [Tweeter API](https://github.com/alexmpaz/data-wrangling)
 * [Flask tutorial](https://github.com/kangbae123456/flask_tutorial_practice/tree/master/practice)
+* [Deep learning with Pytorch: a post on medium](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad)
