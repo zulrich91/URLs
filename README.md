@@ -45,3 +45,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Flask tutorial](https://github.com/kangbae123456/flask_tutorial_practice/tree/master/practice)
 * [Deep learning with Pytorch: a post on medium](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad)
 * [Matrix calculator](https://ncalculators.com/matrix/inverse-matrix.htm)
+* [Convolutional Network for sentence classifictation](https://github.com/au1206/Convolutional-Neural-Networks-for-Sentence-Classification)
