@@ -49,4 +49,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Summary of face detection techniques](http://sci-hub.tw/10.14419/ijet.v7i4.19.28287)
 * [Digitized landmarking tools](https://life.bio.sunysb.edu/morph/soft-dataacq.html)
 * [Critical points of a two variables function](https://mathinsight.org/local_extrema_examples_two_variables)
-* 
+* [Radius of convergence of a power series](http://mathonline.wikidot.com/the-radius-of-convergence-of-a-power-series)
