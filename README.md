@@ -50,3 +50,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Digitized landmarking tools](https://life.bio.sunysb.edu/morph/soft-dataacq.html)
 * [Critical points of a two variables function](https://mathinsight.org/local_extrema_examples_two_variables)
 * [Radius of convergence of a power series](http://mathonline.wikidot.com/the-radius-of-convergence-of-a-power-series)
+* [Introduction to epidemiolgy with R code](https://statistique-et-logiciel-r.com/introduction-epidemiologie/)
