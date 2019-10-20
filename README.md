@@ -53,3 +53,5 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Introduction to epidemiolgy with R code](https://statistique-et-logiciel-r.com/introduction-epidemiologie/)
 * [MongoDB:query array of documents](https://docs.mongodb.com/manual/tutorial/query-array-of-documents/)
 * [Human Metabolome Database](http://www.hmdb.ca/)
+* [Colab google](https://colab.research.google.com)
+* [Floydhub](https://www.floydhub.com/)
