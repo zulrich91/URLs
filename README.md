@@ -55,3 +55,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Human Metabolome Database](http://www.hmdb.ca/)
 * [Colab google sharing google machine learning notebooks](https://colab.research.google.com)
 * [Floydhub: build, train, and deploy deep learning models](https://www.floydhub.com/)
+* [P-values explained on towardsdatascience](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
