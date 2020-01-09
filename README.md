@@ -60,3 +60,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Change the computer's name in elementary OS](https://www.fosslinux.com/534/how-to-change-the-computer-name-in-elementary-os.htm)
 * [How can I mount my iphone on ubuntu](https://askubuntu.com/questions/812006/how-can-i-mount-my-iphone-6s-on-ubuntu-16-04)
 * [Harvard Magazine: Artificial Intelligence limitations](https://harvardmagazine.com/2019/01/artificial-intelligence-limitations)
+* [Data of Pandas training on Udemy](https://github.com/sivabalanb/Data-Analysis-with-Pandas-and-Python)
