@@ -62,3 +62,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Harvard Magazine: Artificial Intelligence limitations](https://harvardmagazine.com/2019/01/artificial-intelligence-limitations)
 * [Data of Pandas training on Udemy](https://github.com/sivabalanb/Data-Analysis-with-Pandas-and-Python)
 * [List of Python API wrappers eg Facebook, googlesheet etc](https://github.com/osamahali/list-of-python-api-wrappers)
+* [Install elasticsearch-logstash-kibana](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-18-04)
