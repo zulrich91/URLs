@@ -65,3 +65,4 @@ This is a repository of some important URLs/websites that I found helpful while 
 * [Install elasticsearch-logstash-kibana](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-18-04)
 * [Whatsapp play](https://github.com/rpotter12/whatsapp-play)
 * [Crontab $ Linux administration](https://www.adminschoice.com/crontab-quick-reference)
+* [Symbols to serve as LinkedIn bullets](https://www.linkedin-makeover.com/2012/06/28/linkedin-profile-bullets-symbols/)
